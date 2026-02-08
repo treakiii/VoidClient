@@ -11,21 +11,6 @@
 ## ✨ **The Next Generation Utility Client**
 **VoidClient** is a premium, high-performance Minecraft utility client built on the Fabric loader. Designed for those who demand both power and aesthetics, VoidClient features a fully overhauled **RGB Engine** with smooth gradients and a modern UI that stands out in the void.
 
----
-
-## ⚡ **How to Compile & Build**
-To build the client efficiently on your system (ensuring the correct Java toolchain is used), run the following command in **PowerShell**:
-
-```powershell
-# Set JDK 21 Environment and Build
-$env:JAVA_HOME="C:\Users\gabpl\.antigravity\extensions\redhat.java-1.52.0-win32-x64\jre\21.0.9-win32-x86_64"; .\gradlew.bat build
-```
-
-The compiled JAR will be available at:  
-`📂 build/libs/voidclient-1.0.0.jar`
-
----
-
 ## 🎨 **Visual Excellence**
 We believe a client should look as good as it performs.
 - 🌈 **Void RGB Engine**: Fully customizable rainbow speeds, saturation, and brightness.
